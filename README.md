@@ -15,9 +15,9 @@ Over the years, I founded these organizations and led the development of:
 <table>
   <tbody>
     <tr>
-      <td><a href="//www.sea-ql.org"><img src="https://raw.githubusercontent.com/SeaQL/sea-query/master/docs/SeaQL logo dual.png" height="250"/></a></td>
-      <td><a href="//www.visioncortex.org"><img src="https://www.visioncortex.org/public/visioncortex-icon-dual.svg" height="250"/></a></td>
-      <td><a href="//project-f.github.io"><img src="https://project-f.github.io/logo/white_on_nothing.png" height="250"/></a></td>
+      <td><a href="//www.sea-ql.org"><img src="https://raw.githubusercontent.com/SeaQL/sea-query/master/docs/SeaQL logo dual.png" width="250"/></a></td>
+      <td><a href="//www.visioncortex.org"><img src="https://www.visioncortex.org/public/visioncortex-icon-dual.svg" width="250"/></a></td>
+      <td><a href="//project-f.github.io"><img src="https://project-f.github.io/logo/white_on_nothing.png" width="250"/></a></td>
     </tr>
   </tbody>
 </table>
