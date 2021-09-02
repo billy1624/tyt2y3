@@ -24,11 +24,13 @@ Over the years, I founded these organizations and led the development of:
 
 Each of these organizations has their own domain and philosophy, but they all share the same goal: to lay down a solid foundation for developers to experiment on new ideas and to develop better software.
 
-If you like what I do, consider starring, commenting, sharing and contributing.
+Over the years, I have exchanged ideas with many people across the planet, from different disciplines and walks of life.
 
 I am trying to build a profitable company on top of sustainable open source projects.
 
-If you believe in what I believe in and share a common vision, please email me immediately.
+If you share a common vision and want to work with me, please contact me immediately.
+
+If you like what I do, consider starring, commenting, sharing and contributing.
 
 Collaboration on open source is the best thing humanity ever had.
 
