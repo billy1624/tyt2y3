@@ -1,6 +1,6 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyt2y3&show_icons=true&theme=dark)
 
-### Open Source Advocate
+# Open Source Advocate
 
 I am a strong believer in open source.
 
@@ -35,3 +35,13 @@ If you like what I do, consider starring, commenting, sharing and contributing.
 Collaboration on open source is the best thing humanity ever had.
 
 > *note:* GitHub is best viewed in dark mode
+
+## Leadership
+
+I am an INFJ, and according to [Personality Central](https://personality-central.com/personality_types/infj-leadership/):
+
+> INFJs have an idealistic, humanistic vision of the future, and they seek to achieve this vision through their work.
+> 
+> INFJs are insightful, brilliant leaders who are likeable and encouraging, seeking to bring out the potential in others through their leadership. 
+> 
+> They are good with strategic and operational planning; with a keen understanding of allocating people and resources to the right place.
