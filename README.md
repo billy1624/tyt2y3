@@ -24,7 +24,7 @@ Over the years, I founded these organizations and led the development of:
 
 Each of these organizations has their own domain and philosophy, but they all share the same goal: to lay down a solid foundation for developers to experiment on new ideas and to develop better software.
 
-Over the decade, I have exchanged ideas with many people across the planet, from different disciplines and walks of life.
+Over the decade, I have exchanged ideas with many people across the internet, from different parts of the world.
 
 I am trying to build a profitable company on top of sustainable open source projects.
 
