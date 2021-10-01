@@ -48,3 +48,5 @@ I am an INFJ, and according to [Personality Central](https://personality-central
 > INFJs are insightful, brilliant leaders who are likeable and encouraging, seeking to bring out the potential in others through their leadership. 
 > 
 > They are good with strategic and operational planning; with a keen understanding of allocating people and resources to the right place.
+
+They are quite accurate, innit?
