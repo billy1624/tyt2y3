@@ -49,4 +49,4 @@ I am an INFJ, and according to [Personality Central](https://personality-central
 > 
 > They are good with strategic and operational planning; with a keen understanding of allocating people and resources to the right place.
 
-They are quite accurate, innit?
+They are quite accurate, aren't they?
