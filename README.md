@@ -13,7 +13,10 @@ I studied at [The Hong Kong University of Science and Technology](https://www.us
 
 I subsequently worked at [Harmonic](https://www.harmonicinc.com/) as a Software Engineer, before I resigned and went on a solo journey in 2016.
 
-Over the years, I founded these organizations and led the development of:
+Over the years, I founded these organizations and led the development of
+[SeaQL](https://github.com/SeaQL) (known for [SeaORM](https://github.com/SeaQL/sea-orm)),
+[Vision Cortex](https://github.com/visioncortex) (known for [VTracer](https://github.com/visioncortex/vtracer)),
+[Project F](https://github.com/Project-F) (known for [F.LF](https://github.com/Project-F/F.LF))
 
 <table>
   <tbody>
