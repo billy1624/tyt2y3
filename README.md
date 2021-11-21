@@ -16,7 +16,7 @@ I subsequently worked at [Harmonic](https://www.harmonicinc.com/) as a Software 
 Over the years, I founded these organizations and led the development of
 [SeaQL](https://github.com/SeaQL) (known for [SeaORM](https://github.com/SeaQL/sea-orm)),
 [Vision Cortex](https://github.com/visioncortex) (known for [VTracer](https://github.com/visioncortex/vtracer)),
-[Project F](https://github.com/Project-F) (known for [F.LF](https://github.com/Project-F/F.LF))
+[Project F](https://github.com/Project-F) (known for [F.LF](https://github.com/Project-F/F.LF)):
 
 <table>
   <tbody>
