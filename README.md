@@ -9,9 +9,7 @@ I am a strong believer in open source.
 
 I started my GitHub journey 10 years ago, when I published my first [programming library](https://github.com/tyt2y3/vaserenderer).
 
-I studied at [The Hong Kong University of Science and Technology](https://www.ust.hk/), and graduated with First Class Honors in 2014.
-
-I subsequently worked at [Harmonic](https://www.harmonicinc.com/) as a Software Engineer, before I resigned and went on a solo journey in 2016.
+After graduating in 2014, I subsequently worked at [Harmonic](https://www.harmonicinc.com/) as a Software Engineer, then went on a solo journey in 2016.
 
 Over the years, I founded these organizations and led the development of
 [SeaQL](https://github.com/SeaQL) (known for [SeaORM](https://github.com/SeaQL/sea-orm)),
